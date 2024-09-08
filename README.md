@@ -7,7 +7,8 @@
 - it should be able to tell whether the two images are a match regardless of whether or not they're of the same size
 
 ## Method
-Since it is stated that the script should disregard the size of the two images while compararing them. The method that I have used is Scale-Invariant Feature Transform.
+Since the objective is to be able to determine whether two images contain the same object/product, regardless of whether their dimensions match, I decided to use Scale-Invariant Feature Transform. While 
+
 
 
 ### RGB Tests
